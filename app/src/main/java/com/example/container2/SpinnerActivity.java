@@ -35,7 +35,7 @@ public class SpinnerActivity extends AppCompatActivity {
         //su codigo aqui
         boton_volver = findViewById(R.id.boton_slider_volver);
 
-        boton_volver.setOnClickListener( v ->
+        boton_volver.setOnClickListener( v2 ->
                     startActivity( new Intent(SpinnerActivity.this , MainActivity.class) )
                 );
 
