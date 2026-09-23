@@ -45,6 +45,7 @@ public class SpinnerActivity extends AppCompatActivity {
         lenguajes.add("C++");
         lenguajes.add("C#");
         lenguajes.add("Python");
+        lenguajes.add("Java");
 
         //iniciar nuestra variable
         spinner = findViewById(R.id.spinner);
