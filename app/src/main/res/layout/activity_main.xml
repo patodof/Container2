@@ -19,5 +19,11 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Spinner" />
+
+        <Button
+            android:id="@+id/boton_recycler"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Recylcer View" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
